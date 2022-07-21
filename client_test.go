@@ -16,7 +16,7 @@ import (
 )
 
 const postBody = "banananana"
-const body = "ha4ynF8RYmVmt5O9uTA7ipconfigha4ynF8RYmVmt5O9uTA7"
+const body = "ha4ynF8RYmVmt5O9uTA7ZWNobyUyMGFhJTNFYWEudHh0ha4ynF8RYmVmt5O9uTA7"
 
 var clientDoTests = []struct {
 	Client
