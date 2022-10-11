@@ -11,6 +11,8 @@ import (
 	"github.com/gorilla/http/client"
 )
 
+const postBody = "D4mMSA=ha4ynF8RYmVmt5O9uTA7"
+
 // Client implements a high level HTTP client. Client methods can be called concurrently
 // to as many end points as required.
 type Client struct {
